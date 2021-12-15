@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "P1_2": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Hello World\" \"RgdIKNgHn2Wg7jXwAykTlA==\""
+    }
+  }
+}
